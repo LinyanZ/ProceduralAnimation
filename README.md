@@ -4,7 +4,7 @@ A quick test of procedural animation in Unity, inspired by ["Step by Step" Proce
 
 The spider model can be obtained from the YouTube link.
 
-![Showcase](.\procedural animation.gif)
+<img src="procedural animation.gif" />
 
 ## How to use
 
@@ -14,5 +14,5 @@ The spider model can be obtained from the YouTube link.
 3. Add a LayerMask to your environment, and set the script parameter accordingly.
 4. Modify the code/parameters to suit your needs. My settings are shown below as reference. 
 
-![Settings](.\Settings.png)
+<img src="settings.png" />
 
