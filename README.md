@@ -14,5 +14,5 @@ The spider model can be obtained from the YouTube link.
 3. Add a LayerMask to your environment, and set the script parameter accordingly.
 4. Modify the code/parameters to suit your needs. My settings are shown below as reference. 
 
-<img src="settings.png" />
+<img src="Settings.png" />
 
